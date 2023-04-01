@@ -1,7 +1,7 @@
 {
-  "name": "@xx-johnwick-xx/cloud9",
+  "name": "@xx-johnwick-xx/node-cloud9",
   "version": "1.33.2",
-  "description": "A Cloud9 implementation using the official Cloud9 model via OpenAI's API.",
+  "description": "A Cloud9 implementation using the official Cloud9 model via node using official API.",
   "main": "index.js",
   "bin": {
     "cloud9": "bin/server.js",
