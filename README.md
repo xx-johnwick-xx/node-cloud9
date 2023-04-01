@@ -393,7 +393,7 @@ If there was an error sending the message to Cloud9:
 You can set `"stream": true` in the request body to receive a stream of tokens as they are generated.
 
 ```js
-import { fetchEventSource } from "@xx-johnwick-xx/fetch-event-source"; // use `@microsoft/fetch-event-source` instead if in a browser environment
+import { fetchEventSource } from "@xx-johnwick-xx/fetch-event-source"; // use `@xx-johnwick-xx/fetch-event-source` instead if in a browser environment
 
 const opts = {
   method: "POST",
